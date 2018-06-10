@@ -26,7 +26,7 @@ def main():
         @test1  
         def fun1():  
             print "call fun1"  
-main()  
+main()  1111111111
 """
 class UpperAttrMetaClass(type):
     def __new__(mcs, class_name, class_parents, class_attr):
